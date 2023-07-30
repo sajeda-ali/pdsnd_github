@@ -1,4 +1,4 @@
-**Date created:** July 22, 2023 
+**Date created:** July 22, 2023
 
 # Bikeshare Data Analysis
 
