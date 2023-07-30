@@ -1,5 +1,5 @@
 **Date created:** July 22, 2023
-
+ 
 # Bikeshare Data Analysis
 
 **Description:**
@@ -30,3 +30,15 @@ Before running the bikeshare program, make sure you have the following dependenc
 - Python (version 3.11)
 - Pandas (version 2.0.3)
 - NumPy (version 1.9)
+
+## Installation
+
+To run the bikeshare program, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install Python (version 3.11) on your system.
+3. Install the required dependencies: Pandas (version 2.0.3) and NumPy (version 1.9).
+4. Open a terminal or command prompt and navigate to the project directory.
+5. Run the bikeshare program using the following command:
+
+
