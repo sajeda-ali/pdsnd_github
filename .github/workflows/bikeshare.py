@@ -8,7 +8,7 @@ CITY_DATA = {
     'new york city': 'new_york_city.csv',
     'washington': 'washington.csv'
 }
-
+ 
 def get_city_name():
     """
     Asks the user to select a city from the provided options.
